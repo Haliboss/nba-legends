@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  background-color: antiquewhite;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.card-container{
+  background-image: url(https://cdn.pixabay.com/photo/2019/04/15/11/41/the-ball-4129121_960_720.jpg);
+}
